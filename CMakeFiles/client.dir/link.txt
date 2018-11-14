@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/client.dir/src/client.c.o CMakeFiles/client.dir/src/ubus_client.c.o  -o client -L"/usr/local/libevent/lib" -levent -L"/usr/bin/libubox/lib" -lblobmsg_json -L"/usr/bin/libubox/lib" -lubox -L"/usr/local/ubus/lib" -lubus -lpthread 

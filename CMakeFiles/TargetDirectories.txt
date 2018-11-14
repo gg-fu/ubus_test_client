@@ -1,0 +1,7 @@
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/install/strip.dir
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/edit_cache.dir
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/install.dir
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/list_install_components.dir
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/client.dir
+/mnt/hgfs/gw/ubus_test/client/CMakeFiles/install/local.dir
